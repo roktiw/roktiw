@@ -1,6 +1,5 @@
-### Hi there 👋
-My name is Wiktor Świątkowski and I am CEO @ www.skleia.com
-- hello@skleia.com
+### Wiktor Świątkowski
+CEO @ www.skleia.com, hello@skleia.com
 ### skleia shops
 - 🇵🇱 skleia poland www.skleia.com
 - 🇺🇸 skleia world @ etsy www.skleiaworld.com
