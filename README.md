@@ -1,16 +1,12 @@
 ### Hi there 👋
+My name is Wiktor Świątkowski and I am CEO @ www.skleia.com
+hello@skleia.com
+skleia shops
+🇵🇱 skleia poland skleia.com
+🇺🇸 skleia world @ etsy skleiaworld.com
+🇬🇧 skleia world @ shopify etsy.com/shop/skleia
 
-<!--
-**roktiw/roktiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+social media
+facebook facebook.com/skleiai
+nstagram instagram.com/skleia_comp
+interest pinterest.com/skleia_com
