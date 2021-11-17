@@ -1,5 +1,6 @@
 ### Wiktor Świątkowski
-CEO @ www.skleia.com, hello@skleia.com
+CEO @ www.skleia.com
+hello@skleia.com
 ### skleia shops
 - 🇺🇸 skleia USA www.skleia.com
 - 🇪🇺 skleia Europe www.skleia.eu
