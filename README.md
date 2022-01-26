@@ -2,7 +2,7 @@
 CEO @ www.skleia.com
 - hello@skleia.com
 ### personal website
-www.wiktorswiatkowski.com
+https://wiktorswiatkowski.com/
 ### skleia shops
 - 🇪🇺 skleia Europe @ EUR www.skleia.com
 - 🇺🇸 skleia USA @ USD www.skleiausa.com
