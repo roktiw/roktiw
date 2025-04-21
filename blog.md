@@ -1,3 +1,0 @@
-# note
-
-blog note
