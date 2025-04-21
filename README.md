@@ -3,7 +3,7 @@
 ---
 
 **Blog:**
-- 
+- [2025-04-21 easter hackhaton](https://github.com/roktiw/roktiw/blob/main/blog/2025-04-21%20easter%20hackhaton.md)
 
 ---
 
@@ -14,7 +14,7 @@
 - [🚀 GAMstack: GitHub Actions + Markdown for easy publishing](https://github.com/roktiw/gamstack) – GitHub Native Markdown Repository CMS. GitHub Actions Static Site Generator. GitHub Pages. No-code, AI-ready, zero maintenance.
 - [May 2024 Hackathon](https://github.com/roktiw/farmario-backup-20250418/blob/main/balloons/index.html) – Very productive Majówka Break. All games are written in pure JavaScript, addictive, and kid-friendly! You can run all games by downloading the HTML files and opening them in a browser.
   - [🎈 Balloons](https://github.com/roktiw/farmario-backup-20250418/blob/main/balloons/index.html) – Pop balloons like Jerry in *Rick and Morty*.
-  - [🚘 Cars](https://github.com/roktiw/farmario-backup-20250418/blob/main/cars/index.html)
+  - [🚘 Cars](https://github.com/roktiw/farmario-backup-20250418/blob/main/cars/index.html) - dodge cars, earn points
   - [🍎🍊🍌🥝🫐 Columns](https://github.com/roktiw/farmario-backup-20250418/blob/main/columns/index.html) – Better than Candy Crush.
   - [😀 Farmario](https://github.com/roktiw/farmario-backup-20250418/blob/main/farmario/index.html) – *Agario*-inspired game.
   - [🪰💩 Fly Poo Game](https://github.com/roktiw/farmario-backup-20250418/blob/main/fly/index.html) – Best toilet game.
