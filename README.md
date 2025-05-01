@@ -4,7 +4,7 @@
 
 **Blog:**
 - [2025-04-21 easter hackhaton](https://github.com/roktiw/roktiw/blob/main/blog/2025-04-21%20easter%20hackhaton.md)
-- [2025-05-01]([url](https://github.com/roktiw/roktiw/blob/main/blog/2025-05-01%20labour%20mayday.md))
+- [2025-05-01](https://github.com/roktiw/roktiw/blob/main/blog/2025-05-01%20labour%20mayday.md)
 
 ---
 
