@@ -55,6 +55,13 @@ Choosing the right remote desktop tool is no longer about simply gaining access;
 
 ## 🧠 Tool Summaries (Quick Overviews)
 
+### **⚡ Parsec**
+Founded in 2016, Parsec was built from the ground up to provide **professional-grade, low-latency video streaming** over the public internet, initially targeting gamers and digital artists. It was acquired by Unity Technologies in 2021.
+* **Origin:** Unity Technologies 🇺🇸. The core development is centered in the United States.
+* **Use:** Widely adopted in game development studios and animation houses for real-time collaboration. Its ability to maintain high FPS and color accuracy (4:4:4 in the paid tier) over high-latency WAN links is industry-leading.
+* **User Info:** Known for its reliability and speed. The free version offers excellent core performance, but users often upgrade for the crucial 4:4:4 color support.
+* **Link:** [Parsec (software) - Wikipedia](https://en.wikipedia.org/wiki/Parsec_(software))
+
 ### **🌙 Sunshine + Moonlight**
 The Sunshine (host) and Moonlight (client) combination is the open-source successor to NVIDIA GameStream.
 * **Origin:** Open Source Project (OSS) 🌍. The core philosophy is driven by the community, offering a fully transparent and private streaming solution.
@@ -68,13 +75,6 @@ Remote Desktop Protocol (RDP) is a proprietary protocol developed by Microsoft, 
 * **History & Use:** It is the foundational technology for Windows Terminal Services (now Remote Desktop Services). Unlike video streamers, RDP is a **vector-based protocol** that transmits drawing instructions, making it the industry standard for enterprise IT and accessing sharp, static work environments (text, coding).
 * **User Info:** Universally trusted for security and text clarity, but often criticized for poor performance when dealing with motion, video, or animations.
 * **Link:** [Remote Desktop Protocol - Wikipedia](https://en.wikipedia.org/wiki/Remote_Desktop_Protocol)
-
-### **⚡ Parsec**
-Founded in 2016, Parsec was built from the ground up to provide **professional-grade, low-latency video streaming** over the public internet, initially targeting gamers and digital artists. It was acquired by Unity Technologies in 2021.
-* **Origin:** Unity Technologies 🇺🇸. The core development is centered in the United States.
-* **Use:** Widely adopted in game development studios and animation houses for real-time collaboration. Its ability to maintain high FPS and color accuracy (4:4:4 in the paid tier) over high-latency WAN links is industry-leading.
-* **User Info:** Known for its reliability and speed. The free version offers excellent core performance, but users often upgrade for the crucial 4:4:4 color support.
-* **Link:** [Parsec (software) - Wikipedia](https://en.wikipedia.org/wiki/Parsec_(software))
 
 ### **🦀 RustDesk**
 An open-source remote desktop solution launched in 2021 as a free, privacy-focused alternative to TeamViewer and AnyDesk.
@@ -90,6 +90,12 @@ Founded in 2010, Jump Desktop established itself by creating highly-polished, us
 * **User Info:** Highly rated for its user experience (UX) and stability, often recommended for non-technical family members due to its simplicity and security model.
 * **Link:** *A dedicated English Wikipedia article is not available.*
 
+### **🖼️ NoMachine**
+A solid remote desktop tool originally based on the NX technology, known for its performance over LAN.
+* **Origin:** NoMachine 🇮🇹. Headquartered in Rome, Italy.
+* **Use:** Uses the proprietary NX protocol, which is efficient at compressing display data. It's often used in Linux environments and for cross-platform access.
+* **User Info:** Excellent for local network access, offering near-native feel. Setting it up for WAN access is more complex than cloud-based tools.
+
 ### **🖥️ AnyDesk**
 A German-developed remote desktop application that entered the market later than TeamViewer, focusing on speed and a proprietary video codec, DeskRT.
 * **Origin:** AnyDesk Software GmbH 🇩🇪. The company is headquartered in Stuttgart, Germany.
@@ -104,26 +110,6 @@ Founded in 2005, TeamViewer is one of the oldest and most widely recognized remo
 * **User Info:** The default choice for quick, ad-hoc support, but widely criticized for its intrusive commercial detection algorithms and comparatively higher latency.
 * **Link:** [TeamViewer (company) - Wikipedia](https://en.wikipedia.org/wiki/TeamViewer_(company))
 
-### **🔐 Tailscale**
-Tailscale is a modern mesh VPN built on the WireGuard protocol.
-* **Origin:** Tailscale 🇺🇸. The company is based in New York, United States.
-* **History & Use:** Developed in 2019, it's not a remote desktop tool but a **network backbone** that links devices using end-to-end encryption. It creates a private network (a "tailnet") where your devices can securely talk to each other directly, regardless of their location (LAN/WAN/Firewall).
-* **User Info:** Considered essential by developers and privacy-focused users for securely running P2P apps like RDP or Sunshine over the internet, adding minimal latency (around +1ms).
-* **Link:** [Tailscale - Wikipedia](https://en.wikipedia.org/wiki/Tailscale)
-
-### **🌐 Chrome Remote Desktop (Chrome RD)**
-A free, web-based remote desktop service provided by Google.
-* **Origin:** Google 🇺🇸. The product is developed and managed by Google, headquartered in Mountain View, California.
-* **History & Use:** Launched in 2011, its main advantage is the ability to run entirely within a web browser, making it extremely easy to deploy on almost any machine without admin rights.
-* **User Info:** Known for its simplicity and reliability as an emergency or occasional tool, but severely limited by high latency and low frame rates (30 FPS), making it unsuitable for demanding tasks.
-* **Link:** [Chrome Remote Desktop - Wikipedia](https://en.wikipedia.org/wiki/Chrome_Remote_Desktop)
-
-### **🖼️ NoMachine**
-A solid remote desktop tool originally based on the NX technology, known for its performance over LAN.
-* **Origin:** NoMachine 🇮🇹. Headquartered in Rome, Italy.
-* **Use:** Uses the proprietary NX protocol, which is efficient at compressing display data. It's often used in Linux environments and for cross-platform access.
-* **User Info:** Excellent for local network access, offering near-native feel. Setting it up for WAN access is more complex than cloud-based tools.
-
 ### **🏢 Splashtop**
 A popular remote support and access solution widely used in business and education.
 * **Origin:** Splashtop Inc. 🇺🇸. Based in Silicon Valley.
@@ -135,6 +121,13 @@ A clientless remote desktop gateway that supports standard protocols like VNC, R
 * **Origin:** Apache Software Foundation (OSS) 🌍.
 * **Use:** Installed on a server, it allows users to access their desktops via a web browser without installing any plugins or client software.
 * **User Info:** Perfect for admins who need access from anywhere via a browser, but requires technical skill to set up (usually Docker).
+
+### **🌐 Chrome Remote Desktop (Chrome RD)**
+A free, web-based remote desktop service provided by Google.
+* **Origin:** Google 🇺🇸. The product is developed and managed by Google, headquartered in Mountain View, California.
+* **History & Use:** Launched in 2011, its main advantage is the ability to run entirely within a web browser, making it extremely easy to deploy on almost any machine without admin rights.
+* **User Info:** Known for its simplicity and reliability as an emergency or occasional tool, but severely limited by high latency and low frame rates (30 FPS), making it unsuitable for demanding tasks.
+* **Link:** [Chrome Remote Desktop - Wikipedia](https://en.wikipedia.org/wiki/Chrome_Remote_Desktop)
 
 ### **🔷 VNC (Virtual Network Computing)**
 The grandfather of cross-platform remote desktop sharing.
@@ -472,8 +465,12 @@ Find your tier below to see the perfect tool match.
 | **🪟 RDP** | 7/10 | 8/10 | 9/10 | 9/10 | **8.0/10** |
 | **🐇 Jump Desktop** | 7/10 | 8/10 | 9/10 | 10/10 | **8.0/10** |
 | **🦀 RustDesk** | 6/10 | 10/10 | 8/10 | 9/10 | **8.0/10** |
+| **🖼️ NoMachine** | 7/10 | 9/10 | 8/10 | 7/10 | **7.8/10** |
+| **🏢 Splashtop** | 7/10 | 6/10 | 8/10 | 9/10 | **7.5/10** |
 | **🖥️ AnyDesk** | 9/10 | 6/10 | 8/10 | 8/10 | **7.0/10** ⚠️ |
+| **🦅 Apache Guacamole** | 5/10 | 10/10 | 9/10 | 4/10 | **7.0/10** |
 | **👁️ TeamViewer** | 4/10 | 5/10 | 8/10 | 9/10 | **6.0/10** ⚠️ |
+| **🔷 VNC** | 3/10 | 8/10 | 5/10 | 7/10 | **5.8/10** |
 | **🌐 Chrome RD** | 3/10 | 6/10 | 3/10 | 10/10 | **5.0/10** |
 
 **Note:** **🖥️ AnyDesk** and **👁️ TeamViewer** scores are reduced due to licensing traps despite good technical capabilities.
