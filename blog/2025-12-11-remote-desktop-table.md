@@ -1,3 +1,9 @@
+# 🖥️ Remote Desktop Tools — Cross-Platform Comparison (2025.12 Edition)
+
+---
+
+# 🧩 Remote Desktop Tools Table
+
 | 🔧 Tool | 🌍 Company / Origin | 💻 macOS↔macOS | 🪟 Windows↔macOS | 📱 iPhone→macOS | 🌍 Internet / VPN Support | ⏱ Input Lag (ms LAN) | 🎞 Max FPS | 🎥 4K / HDR / 120 fps | 💸 Cost / Model | 🔒 Security / Control | 📂 Files / 📋 Clipboard / 🔊 Audio | 🏡 Family Use | 💬 Summary / Comment |
 |---|---|:--:|:--:|:--:|:--:|--:|:--:|:--:|:--:|:--:|:--:|:--:|---|
 | **Sunshine (host) + Moonlight (client)** | OSS (LizardByte / Moonlight) 🌍 | 🟩 Excellent | 🟩 Excellent | 🟩 Excellent | 🟨 Requires VPN or mesh (Tailscale) | **≈ 9–14 ms** | 🟩 120 | 🟩 Full 4K HDR 120fps | 🆓 Free | 🟩 Fully self-hosted, E2E LAN | 🟩 Full audio, files & clipboard | 🟨 Requires manual setup | 🟩 Near-zero lag on LAN; ideal for private users with basic networking skills. |
@@ -12,7 +18,6 @@
 | **Moonlight (client only)** | Moonlight OSS 🌍 | 🟨 Needs Sunshine host | 🟩 Excellent | 🟩 Excellent | 🟨 VPN required | ≈ 10–15 ms | 🟩 120 | 🟩 4K HDR | 🆓 Free | 🟨 Security depends on host | 🟩 Full feature stream | 🟨 Tech setup required | 🟩 Great for streaming; nearly native feel in LAN. |
 | **Chrome Remote Desktop** | Google 🇺🇸 | 🟩 Browser-based | 🟩 Browser-based | 🟩 iOS web app | 🟩 Global cloud relay | ~80–100 ms | 🟨 30 | 🟥 No 4K | 🆓 Free | 🟨 TLS / Google account | 🟨 Clipboard only | 🟩 Very simple | 🟨 Easiest setup, but laggy and minimal control. |
 
-# 🖥️ Remote Desktop Tools — Cross-Platform Comparison (2025 Edition)
 
 ## 🧭 Legend
 
@@ -37,24 +42,6 @@
 - 🟩 **Excellent** — near-native performance or ideal usability.  
 - 🟨 **Good** — usable with minor limitations or setup needed.  
 - 🟥 **Limited** — poor or missing support in this area.
-
----
-
-## 🧩 Remote Desktop Tools Table
-
-| 🔧 Tool | 🌍 Company / Origin | 💻 macOS↔macOS | 🪟 Windows↔macOS | 📱 iPhone→macOS | 🌍 Internet / VPN Support | ⏱ Input Lag (ms LAN) | 🎞 Max FPS | 🎥 4K / HDR / 120 fps | 💸 Cost / Model | 🔒 Security / Control | 📂 Files / 📋 Clipboard / 🔊 Audio | 🏡 Family Use | 💬 Summary / Comment |
-|---|---|:--:|:--:|:--:|:--:|--:|:--:|:--:|:--:|:--:|:--:|:--:|---|
-| **Sunshine (host) + Moonlight (client)** | OSS (LizardByte / Moonlight) 🌍 | 🟩 Excellent | 🟩 Excellent | 🟩 Excellent | 🟨 Requires VPN or mesh (Tailscale) | **≈ 9–14 ms** | 🟩 120 | 🟩 Full 4K HDR 120fps | 🆓 Free | 🟩 Fully self-hosted, E2E LAN | 🟩 Full audio, files & clipboard | 🟨 Requires manual setup | 🟩 Near-zero lag on LAN; ideal for private users with basic networking skills. |
-| **Parsec** | Unity Technologies 🇺🇸 | 🟩 Excellent | 🟩 Excellent | 🟩 Excellent | 🟩 Built-in WAN optimization | **≈ 7 ms** | 🟩 120 | 🟩 4K 120fps | 💰 $9/mo (Pro) | 🟩 DTLS + AES-256 tunnel | 🟨 Clipboard only (limited file xfer) | 🟨 Slightly tech-oriented | 🟩 Professional-grade latency; designed for gaming and creative work. |
-| **RustDesk** | Purslane Ltd (OSS) 🇸🇬 | 🟩 Good | 🟩 Good | 🟨 iOS beta | 🟩 Relay or self-host | ~15–25 ms | 🟩 60 | 🟩 4K 60fps | 🆓 Free | 🟩 E2E + self-host option | 🟩 Full clipboard / files / audio | 🟩 Simple for family use | 🟩 Private, LAN-friendly remote desktop with full control. |
-| **AnyDesk** | AnyDesk GmbH 🇩🇪 | 🟩 Excellent | 🟩 Excellent | 🟩 Excellent | 🟩 Global relay / direct connect | **<16 ms (bench)** | 🟩 60 | 🟨 4K 60fps | 💸 Freemium | 🟩 TLS + RSA encryption | 🟩 Full feature set | 🟩 Great for families | 🟩 Enterprise-fast with excellent stability and minimal lag. |
-| **Jump Desktop** | Jump Desktop Inc. 🇺🇸 | 🟩 Excellent | 🟩 Excellent | 🟩 Excellent | 🟩 Relay / cloud servers | ~20–40 ms | 🟩 60 | 🟨 4K 60fps | 💵 One-time (~$30) | 🟩 TLS 1.3 | 🟩 Full features supported | 🟩 Perfect for non-tech family members | 🟩 “Apple-grade” design; smooth, secure, zero config. |
-| **NoMachine** | NoMachine 🇮🇹 | 🟩 Good | 🟩 Good | 🟩 Good | 🟩 Direct / relay | ~25–35 ms | 🟩 60 | 🟨 4K 60fps | 🆓 Home free | 🟩 NX protocol (encrypted) | 🟩 Audio + files + clipboard | 🟨 Needs configuration | 🟩 Robust open-core tool for technical users. |
-| **Splashtop** | Splashtop Inc. 🇺🇸 | 🟩 Excellent | 🟩 Excellent | 🟩 Excellent | 🟩 Cloud / P2P hybrid | ~30–50 ms | 🟩 60 | 🟨 4K 60fps | 💸 Subscription ($5–10/mo) | 🟩 TLS + AES-256 | 🟩 Full feature parity | 🟩 Family & business friendly | 🟩 Highly stable, corporate-class remote desktop. |
-| **TeamViewer** | TeamViewer AG 🇩🇪 | 🟩 Good | 🟩 Good | 🟩 Good | 🟩 Cloud relay | ~40–60 ms | 🟩 60 | 🟨 4K 60fps | 💸 Free personal | 🟨 Cloud-managed TLS | 🟩 Full feature set | 🟩 Easy for anyone | 🟩 Ideal for support sessions; slower, but extremely user-friendly. |
-| **Tailscale (mesh VPN)** | Tailscale 🇺🇸 | — | — | — | 🟩 WireGuard VPN layer | +1–3 ms | — | — | 🆓 Free (100 devices) | 🟩 Encrypted tailnet | — | 🟩 Core for family mesh | 🟩 Secure “backbone” to connect devices; combine with RustDesk / Sunshine. |
-| **Moonlight (client only)** | Moonlight OSS 🌍 | 🟨 Needs Sunshine host | 🟩 Excellent | 🟩 Excellent | 🟨 VPN required | ≈ 10–15 ms | 🟩 120 | 🟩 4K HDR | 🆓 Free | 🟨 Security depends on host | 🟩 Full feature stream | 🟨 Tech setup required | 🟩 Great for streaming; nearly native feel in LAN. |
-| **Chrome Remote Desktop** | Google 🇺🇸 | 🟩 Browser-based | 🟩 Browser-based | 🟩 iOS web app | 🟩 Global cloud relay | ~80–100 ms | 🟨 30 | 🟥 No 4K | 🆓 Free | 🟨 TLS / Google account | 🟨 Clipboard only | 🟩 Very simple | 🟨 Easiest setup, but laggy and minimal control. |
 
 ---
 
