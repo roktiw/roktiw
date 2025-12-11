@@ -53,87 +53,89 @@ Choosing the right remote desktop tool is no longer about simply gaining access;
 
 ---
 
-## 🧠 Tool Summaries (Quick Overviews)
-
-### **⚡ Parsec**
-Founded in 2016, Parsec was built from the ground up to provide **professional-grade, low-latency video streaming** over the public internet, initially targeting gamers and digital artists. It was acquired by Unity Technologies in 2021.
-* **Origin:** Unity Technologies 🇺🇸. The core development is centered in the United States.
-* **Use:** Widely adopted in game development studios and animation houses for real-time collaboration. Its ability to maintain high FPS and color accuracy (4:4:4 in the paid tier) over high-latency WAN links is industry-leading.
-* **User Info:** Known for its reliability and speed. The free version offers excellent core performance, but users often upgrade for the crucial 4:4:4 color support.
-* **Link:** [Parsec (software) - Wikipedia](https://en.wikipedia.org/wiki/Parsec_(software))
-
-### **🌙 Sunshine + Moonlight**
+### **🌙 Sunshine + Moonlight** (⚠️ Advanced Setup)
 The Sunshine (host) and Moonlight (client) combination is the open-source successor to NVIDIA GameStream.
 * **Origin:** Open Source Project (OSS) 🌍. The core philosophy is driven by the community, offering a fully transparent and private streaming solution.
 * **History & Use:** Originally developed by users frustrated with vendor lock-in. It delivers the lowest possible latency by leveraging modern hardware video encoding (HEVC/H.265), making it the *de facto* choice for **game streaming** and **private, self-hosted media work** over LAN or VPN.
 * **User Info:** Highly praised in tech communities (Reddit, Discord) for its performance and privacy, though it requires more technical setup (especially for Mac audio).
 * **Link:** [Moonlight (OSS) is related to NVIDIA GameStream](https://en.wikipedia.org/wiki/Nvidia_GameStream)
 
-### **🪟 Microsoft RDP**
+### **🪟 Microsoft RDP** (🟨 Moderate Setup)
 Remote Desktop Protocol (RDP) is a proprietary protocol developed by Microsoft, dating back to 1998 (Windows NT).
 * **Origin:** Microsoft 🇺🇸. RDP is an integral part of the Windows operating system architecture.
 * **History & Use:** It is the foundational technology for Windows Terminal Services (now Remote Desktop Services). Unlike video streamers, RDP is a **vector-based protocol** that transmits drawing instructions, making it the industry standard for enterprise IT and accessing sharp, static work environments (text, coding).
 * **User Info:** Universally trusted for security and text clarity, but often criticized for poor performance when dealing with motion, video, or animations.
 * **Link:** [Remote Desktop Protocol - Wikipedia](https://en.wikipedia.org/wiki/Remote_Desktop_Protocol)
 
-### **🦀 RustDesk**
+### **⚡ Parsec** (🟨 Moderate Setup)
+Founded in 2016, Parsec was built from the ground up to provide **professional-grade, low-latency video streaming** over the public internet, initially targeting gamers and digital artists. It was acquired by Unity Technologies in 2021.
+* **Origin:** Unity Technologies 🇺🇸. The core development is centered in the United States.
+* **Use:** Widely adopted in game development studios and animation houses for real-time collaboration. Its ability to maintain high FPS and color accuracy (4:4:4 in the paid tier) over high-latency WAN links is industry-leading.
+* **User Info:** Known for its reliability and speed. The free version offers excellent core performance, but users often upgrade for the crucial 4:4:4 color support.
+* **Link:** [Parsec (software) - Wikipedia](https://en.wikipedia.org/wiki/Parsec_(software))
+
+### **🦀 RustDesk** (🟢 Easy Setup)
 An open-source remote desktop solution launched in 2021 as a free, privacy-focused alternative to TeamViewer and AnyDesk.
 * **Origin:** Purslane Ltd. 🇸🇬 (Singapore). Though Open Source, the commercial entity providing services and hosting is registered in Singapore.
 * **History & Use:** Built with the Rust programming language, emphasizing speed, security, and portability. Its core value proposition is the ease of **self-hosting** the relay server, ensuring end-to-end control over connection data, bypassing dependency on any single corporation.
 * **User Info:** Gaining popularity rapidly among privacy advocates and developers for its transparent source code and robust cross-platform support (including Android remote control).
 * **Link:** [RustDesk - Wikipedia](https://en.wikipedia.org/wiki/RustDesk)
 
-### **🐇 Jump Desktop**
+### **🐇 Jump Desktop** (🟢 Easy Setup)
 Founded in 2010, Jump Desktop established itself by creating highly-polished, user-friendly remote clients, particularly for the Apple ecosystem.
 * **Origin:** Phase Five 🇨🇦. The company's operations are strongly tied to Canada.
 * **History & Use:** It initially focused on being a superior client for RDP and VNC, but gained prominence with its proprietary **Fluid protocol**, which delivers high performance. Its unique selling point is the unparalleled **mouse support on iPadOS**, making it a favorite for professionals traveling with an iPad.
 * **User Info:** Highly rated for its user experience (UX) and stability, often recommended for non-technical family members due to its simplicity and security model.
 * **Link:** *A dedicated English Wikipedia article is not available.*
 
-### **🖼️ NoMachine**
+### **🖼️ NoMachine** (🟨 Moderate Setup)
 A solid remote desktop tool originally based on the NX technology, known for its performance over LAN.
 * **Origin:** NoMachine 🇮🇹. Headquartered in Rome, Italy.
 * **Use:** Uses the proprietary NX protocol, which is efficient at compressing display data. It's often used in Linux environments and for cross-platform access.
 * **User Info:** Excellent for local network access, offering near-native feel. Setting it up for WAN access is more complex than cloud-based tools.
+* **Link:** [NoMachine - Wikipedia](https://en.wikipedia.org/wiki/NX_technology)
 
-### **🖥️ AnyDesk**
+### **🖥️ AnyDesk** (🟢 Easy Setup)
 A German-developed remote desktop application that entered the market later than TeamViewer, focusing on speed and a proprietary video codec, DeskRT.
 * **Origin:** AnyDesk Software GmbH 🇩🇪. The company is headquartered in Stuttgart, Germany.
 * **History & Use:** AnyDesk gained traction by emphasizing its low-latency performance (<16ms) and smaller application size. It uses TLS 1.2 with AES-256 for encryption. The "freemium" model targets both ad-hoc support and corporate clients.
 * **User Info:** Highly praised for its speed in technical circles, but its free version is notorious among users for being frequently flagged as "commercial use," leading to temporary lockouts (the "licensing trap").
 * **Link:** [AnyDesk - Wikipedia](https://en.wikipedia.org/wiki/AnyDesk)
 
-### **👁️ TeamViewer**
+### **👁️ TeamViewer** (🟢 Easy Setup)
 Founded in 2005, TeamViewer is one of the oldest and most widely recognized remote connectivity platforms globally, known primarily for its ease of use in technical support scenarios.
 * **Origin:** TeamViewer AG 🇩🇪. The company is headquartered in Göppingen, Germany, and is publicly traded.
 * **History & Use:** It shifted its primary revenue model from perpetual licenses to subscriptions in 2018. It is often used as a verb ("Just TeamViewer me the file"). Due to its long history and visibility, it has been the target of several high-profile security incidents and has faced criticism over its transparency regarding these events.
 * **User Info:** The default choice for quick, ad-hoc support, but widely criticized for its intrusive commercial detection algorithms and comparatively higher latency.
 * **Link:** [TeamViewer (company) - Wikipedia](https://en.wikipedia.org/wiki/TeamViewer_(company))
 
-### **🏢 Splashtop**
+### **🏢 Splashtop** (🟢 Easy Setup)
 A popular remote support and access solution widely used in business and education.
 * **Origin:** Splashtop Inc. 🇺🇸. Based in Silicon Valley.
 * **Use:** Focuses on ease of use and broad device support. It offers various products for personal, business, and enterprise use.
 * **User Info:** Reliable and easy to deploy, but the best features are locked behind subscription plans.
+* **Link:** [Splashtop - Wikipedia](https://en.wikipedia.org/wiki/Splashtop)
 
-### **🦅 Apache Guacamole**
+### **🦅 Apache Guacamole** (⚠️ Advanced Setup)
 A clientless remote desktop gateway that supports standard protocols like VNC, RDP, and SSH.
 * **Origin:** Apache Software Foundation (OSS) 🌍.
 * **Use:** Installed on a server, it allows users to access their desktops via a web browser without installing any plugins or client software.
 * **User Info:** Perfect for admins who need access from anywhere via a browser, but requires technical skill to set up (usually Docker).
+* **Link:** [Apache Guacamole - Wikipedia](https://en.wikipedia.org/wiki/Apache_Guacamole)
 
-### **🌐 Chrome Remote Desktop (Chrome RD)**
+### **🌐 Chrome Remote Desktop (Chrome RD)** (🟢 Easy Setup)
 A free, web-based remote desktop service provided by Google.
 * **Origin:** Google 🇺🇸. The product is developed and managed by Google, headquartered in Mountain View, California.
 * **History & Use:** Launched in 2011, its main advantage is the ability to run entirely within a web browser, making it extremely easy to deploy on almost any machine without admin rights.
 * **User Info:** Known for its simplicity and reliability as an emergency or occasional tool, but severely limited by high latency and low frame rates (30 FPS), making it unsuitable for demanding tasks.
 * **Link:** [Chrome Remote Desktop - Wikipedia](https://en.wikipedia.org/wiki/Chrome_Remote_Desktop)
 
-### **🔷 VNC (Virtual Network Computing)**
+### **🔷 VNC (Virtual Network Computing)** (🟢 Easy Setup)
 The grandfather of cross-platform remote desktop sharing.
 * **Origin:** Developed at Olivetti & Oracle Research Lab (UK) 🇬🇧. Now maintained by various groups (RealVNC, TightVNC, TigerVNC).
 * **Use:** A graphical desktop-sharing system that uses the Remote Frame Buffer protocol (RFB). It's universal but inefficient compared to modern video codecs.
 * **User Info:** Useful for basic access to Raspberry Pis or Linux servers, but generally too slow for high-resolution or high-motion work.
+* **Link:** [Virtual Network Computing - Wikipedia](https://en.wikipedia.org/wiki/Virtual_Network_Computing)
 
 ---
 
