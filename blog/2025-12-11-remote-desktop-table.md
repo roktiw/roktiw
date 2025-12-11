@@ -393,29 +393,6 @@ START → What's your primary use case?
 
 ---
 
-## 📚 Setup Guides & Resources
-
-**Quick links to get started:**
-
-### 🔗 Essential Combo: **🔐 Tailscale** + **🪟 RDP**
-- **Why:** Makes RDP secure over the internet without port forwarding
-- **Setup time:** 5 minutes
-- **Guide:** Install Tailscale on both machines → Connect to host's Tailscale IP via RDP
-
-### 🎮 **🌙 Moonlight** on Mac: Audio Fix
-- **Problem:** Mac doesn't expose audio by default
-- **Solution:** Install BlackHole audio driver
-- **Guide:** [BlackHole Audio Driver](https://github.com/ExistentialAudio/BlackHole)
-
-### 🔒 **🦀 RustDesk** Self-Hosting
-- **Why:** Complete privacy and control
-- **Setup time:** 10 minutes with Docker
-- **Guide:** Docker one-liner: `docker run -d --name rustdesk-server -p 21115-21119:21115-21119 rustdesk/rustdesk-server`
-
-### 🍎 **🐇 Jump Desktop** + iPad Setup
-- **Pro tip:** Pair with a Bluetooth mouse for the best experience
-- **Settings:** Enable "Trackpad Mode" in Jump Desktop settings
-- **Bonus:** Works great with iPad Pro's Magic Keyboard
 
 ---
 
