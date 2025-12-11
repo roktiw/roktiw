@@ -15,6 +15,39 @@ Choosing the right remote desktop tool is no longer about simply gaining access;
 - 🌐 **Need Secure Remote Access?** → 🔐 Tailscale + any tool above
 - ⚠️ **Avoid:** 👁️ TeamViewer and 🖥️ AnyDesk (licensing traps)
 
+## 🗺️ Decision Tree
+
+**Not sure which tool to choose? Follow this persona-based guide:**
+
+```
+START → Who are you? (Select your Persona)
+
+├─ 🎮 The Gamer? (Need 120 FPS + Low Latency)
+│  ├─ Streaming over Internet (WAN)? → ⚡ Parsec
+│  └─ Streaming locally (LAN/Home Lab)? → 🌙 Moonlight
+│
+├─ 👨‍💻 The Tech Pro? (Dev / Admin)
+│  ├─ Just need Code/Terminal? → Use VS Code Remote / SSH
+│  ├─ Need Linux GUI / Self-hosted? → 🦀 RustDesk
+│  └─ Need browser-based admin access? → 🦅 Apache Guacamole
+│
+├─ 🏢 The Office Worker? (Excel / Text focus)
+│  ├─ Connecting to Windows Host? → 🪟 Microsoft RDP
+│  └─ Connecting to Mac Host? → 🏢 Splashtop or 🐇 Jump Desktop
+│
+├─ 🍎 Apple Ecosystem User?
+│  └─ Need iPad mouse support? → 🐇 Jump Desktop (Essential)
+│
+├─ 🔐 The Privacy Paranoid?
+│  └─ Trust no one? → 🦀 RustDesk (Self-hosted) + 🔐 Tailscale
+│
+└─ 🆘 Family Tech Support?
+   ├─ Helping someone with install rights? → 🦀 RustDesk
+   └─ Helping someone via browser? → 🌐 Chrome Remote Desktop
+```
+
+---
+
 ## 🧭 Legend
 
 | Symbol | Meaning |
@@ -389,39 +422,6 @@ This section provides the essential summary based on the performance, cost, and 
 - 🛡️ **Most Private:** Choose *🦀 RustDesk* (Self-hosted). Hosting your own relay server ensures that your connection metadata never passes through a corporate server.
 - 🌐 **Essential Add-on:** Install *🔐 Tailscale*. This tool acts as the necessary "glue" for secure setups, allowing safe RDP use over the Internet.
 - ⚠️ **Riskiest "Free" Tier:** Avoid *👁️ TeamViewer* and *🖥️ AnyDesk* for personal use due to frequent commercial blockades.
-
----
-
-## 🗺️ Decision Tree
-
-**Not sure which tool to choose? Follow this persona-based guide:**
-
-```
-START → Who are you? (Select your Persona)
-
-├─ 🎮 The Gamer? (Need 120 FPS + Low Latency)
-│  ├─ Streaming over Internet (WAN)? → ⚡ Parsec
-│  └─ Streaming locally (LAN/Home Lab)? → 🌙 Moonlight
-│
-├─ 👨‍💻 The Tech Pro? (Dev / Admin)
-│  ├─ Just need Code/Terminal? → Use VS Code Remote / SSH
-│  ├─ Need Linux GUI / Self-hosted? → 🦀 RustDesk
-│  └─ Need browser-based admin access? → 🦅 Apache Guacamole
-│
-├─ 🏢 The Office Worker? (Excel / Text focus)
-│  ├─ Connecting to Windows Host? → 🪟 Microsoft RDP
-│  └─ Connecting to Mac Host? → 🏢 Splashtop or 🐇 Jump Desktop
-│
-├─ 🍎 Apple Ecosystem User?
-│  └─ Need iPad mouse support? → 🐇 Jump Desktop (Essential)
-│
-├─ 🔐 The Privacy Paranoid?
-│  └─ Trust no one? → 🦀 RustDesk (Self-hosted) + 🔐 Tailscale
-│
-└─ 🆘 Family Tech Support?
-   ├─ Helping someone with install rights? → 🦀 RustDesk
-   └─ Helping someone via browser? → 🌐 Chrome Remote Desktop
-```
 
 ---
 
