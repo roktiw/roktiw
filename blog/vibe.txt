@@ -1,0 +1,53 @@
+Witaj w obszernym, ostatecznym przewodniku po świecie Vibe Codingu na rok 2025. To jest wersja bez cenzury, nasycona technologicznym humorem i konkretną wiedzą, przygotowana specjalnie dla Twoich uszu. Usiądź wygodnie, bo zabieram Cię w podróż do świata, w którym programowanie przestało polegać na żmudnym klepaniu w klawiaturę.
+
+Zacznijmy od fundamentalnej zmiany, jaka zaszła w naszej branży. Witamy w erze, w której skończyło się wkuwanie składni na pamięć. Pamiętasz jeszcze te czasy, gdy bycie programistą oznaczało wiedzę o tym, gdzie dokładnie postawić średnik w Javie, albo jak wycentrować div-a, żeby się nie rozjechał? To już historia. Mamy rok 2025 i Twoim jedynym limitem jest to, jak szybko potrafisz wymyślać problemy, a nie jak szybko potrafisz je rozwiązywać. Narzędzia, których używamy, przestały być zwykłymi edytorami tekstu. Stały się Twoim trzecim współzałożycielem, stażystą, który nigdy nie śpi, i seniorem, który nie przewraca oczami, gdy zadajesz mu po raz dziesiąty to samo pytanie.
+
+Zanim przejdziemy do konkretów, mała, ale istotna uwaga techniczna. W sieci krążą dwie podobne nazwy. Nie pomyl "Windscribe", który jest popularnym programem VPN, z "Windsurf", który jest edytorem opartym na sztucznej inteligencji. Jeśli przez pomyłkę ściągniesz to pierwsze, nie będziesz kodować szybciej. Po prostu będziesz wyglądać dla serwerów tak, jakbyś łączył się z Rumunii.
+
+Spójrzmy teraz na rynek narzędzi. Podzielił się on na trzy wyraźne, zwalczające się plemiona. Zastanów się głęboko, gdzie pasujesz Ty i Twoja filozofia pracy.
+
+Pierwsze plemię to entuzjaści pełnego, autonomicznego doświadczenia. Ich filozofia brzmi: "Nie chcę pisać kodu, chcę dyrygować orkiestrą". Tutaj nie ma miejsca na sentymenty do starych edytorów. Królują tu Cursor AI oraz Windsurf. To nie są zwykłe nakładki. To zmodyfikowane wersje popularnego VS Code, w których silnik został wymieniony na reaktor jądrowy sztucznej inteligencji. Te narzędzia widzą cały Twój projekt, rozumieją kontekst i potrafią zmienić pięćdziesiąt plików w czasie, w którym Ty dopiero sięgasz po kubek z kawą.
+
+Drugie plemię to konserwatyści. Ich podejście można streścić słowami: "Nie dotykaj mojej konfiguracji, nad którą pracowałem pięć lat". Oni zostają przy swoich obecnych, dopieszczonych edytorach i tylko doinstalowują wtyczki. Tutaj znajdziesz użytkowników GitHub Copilot, Continue oraz JetBrains AI. W tym modelu sztuczna inteligencja siedzi grzecznie w panelu bocznym. Jest potężna, ale odzywa się tylko wtedy, gdy ją o coś zapytasz, lub delikatnie sugeruje kod szarym tekstem. To bezpieczna ewolucja, a nie rewolucja.
+
+Trzecie plemię to cyfrowi asceci, hakerzy terminalowi. Dla nich graficzne interfejsy są dla słabych. Tu nie używa się myszki. Jest tylko czarne okno, migający kursor i czysty tekst. Narzędzia takie jak Aider czy Claude Code żyją w terminalu. Mają pełną władzę nad systemem – mielą Twoje repozytorium, same tworzą commity i same naprawiają błędy, bez zbędnych ozdobników graficznych.
+
+Teraz najważniejsze pytanie: Kim Ty jesteś w tym nowym ekosystemie? Przygotowaliśmy kilka szczegółowych profili. Posłuchaj uważnie i znajdź w nich siebie.
+
+Może jesteś osobą nową w branży, albo naukowcem piszącym pracę dyplomową? Word Cię denerwuje, bo nie jest profesjonalnym narzędziem, a Latex to jednak za dużo zachodu. Chcesz pisać w Markdownie, robić research i czuć się jak haker, nawet jeśli piszesz o socjologii. Jeśli tak, Twoją bronią jest Cursor AI. To narzędzie traktuje prozę tak samo jak kod. Możesz mu wydać polecenie: "Zmień styl tego akapitu na bardziej formalny, dodaj cytowania w stylu APA i wygeneruj tabelę porównawczą na podstawie moich notatek". Poczujesz moc technologii bez konieczności bycia programistą.
+
+A może jesteś startupowcem z ADHD? Masz tysiące linii specyfikacji wygenerowanej wczoraj w nocy przez chata GPT i spotkanie z inwestorem jutro rano. Nie dbasz o testy jednostkowe, kod ma po prostu działać na prezentacji. Wtedy Twoim idealnym zestawem jest Cursor AI połączony z wtyczką Cline. Jak to działa? Cursorem generujesz cały backend i bazę danych w piętnaście minut. A kiedy strona wizualna w React się sypie, Cline sam otwiera przeglądarkę, robi zrzut ekranu błędu i go naprawia, podczas gdy Ty ucinasz sobie drzemkę przed pitch-deckiem.
+
+Jeśli jesteś Juniorem, świeżo po kursie programowania, i boisz się, że zepsujesz projekt jednym złym commitem, wybierz Windsurf. Dlaczego? Ponieważ posiada on unikalny silnik o nazwie Cascade. Działa on jak ultra-cierpliwy mentor. Zamiast tylko wypluwać gotowy kod, tłumaczy Ci: "Zmieniamy ten plik, ponieważ w innym miejscu zaimportowałeś go błędnie". To bezpieczna opcja, która uczy Cię systemu i rzadziej wymyśla nieistniejące biblioteki.
+
+Teraz ukłon w stronę lojalistów JetBrains. Jeśli jesteś programistą średniego szczebla, tak zwanym midem, a Twoje środowisko pracy zjada szesnaście gigabajtów RAMu na start, ale za to indeksuje cały wszechświat, zostań przy JetBrains AI. Uważasz, że VS Code to tylko notatnik na sterydach. JetBrains AI to jedyne narzędzie, które rozumie głęboką strukturę Twojego projektu, a nie tylko tekst. Wie, że dana metoda istnieje w klasie dziedziczącej, nawet jeśli jej nie widać. Działa wolniej i kosztuje dodatkowo, ale nie wymaga od Ciebie wychodzenia z bezpiecznej jaskini Twojego ulubionego IDE.
+
+Dla seniorów w wielkich korporacjach sytuacja jest inna. Tam dział prawny dostaje zawału na samo słowo OpenAI. Potrzebujesz narzędzia bezpiecznego, z certyfikatami. Jedyną opcją jest GitHub Copilot w wersji Enterprise. Microsoft gwarantuje ochronę prawną kodu, więc nikt Cię nie zwolni za używanie AI, a Twoja firma może spać spokojnie.
+
+Na koniec, jeśli jesteś Uber Seniorem, używasz własnej dystrybucji Linuxa, a Twoje środowisko to zagnieżdżone maszyny wirtualne, Twoim narzędziem jest Aider. Działa on w terminalu, szanuje Twoje commity i robi czarną robotę w tle, nie dotykając Twojej perfekcyjnej, budowanej przez dekady konfiguracji Vima czy Emacsa.
+
+Dobrze, przejdźmy teraz do konkretnych rekomendacji w zależności od tego, czym zajmujesz się na co dzień.
+
+Jeśli jesteś Frontendowcem i walczysz z CSS-em oraz centrowaniem elementów, wybierz wtyczkę Cline. To obecnie jedyny agent na rynku, który potrafi autonomicznie odpalić przeglądarkę, zrobić zrzut ekranu Twojej krzywej strony, porównać go z projektem graficznym i samemu poprawić kod. Inne agenty są "ślepe" – widzą kod, ale nie widzą efektu wizualnego.
+
+Jeśli siedzisz w Backendzie, tworzysz bazy danych, migracje i API, wybierz Cursora. Jego tryb Composer jest bezbłędny w logice wieloplikowej. Wyobraź sobie zadanie: "Dodaj pole w bazie danych, zrób migrację, zaktualizuj schemat i wystaw nowy endpoint". Cursor robi to transakcyjnie, w jednym kroku, minimalizując ryzyko, że o czymś zapomnisz.
+
+Jeśli jesteś Fullstackiem i robisz wszystko naraz, połącz siły. Użyj Cursora do szybkiego budowania nowych funkcji, zarówno frontu jak i backendu. Natomiast Aidera trzymaj w terminalu, żeby sprzątał po Tobie – kazał mu robić commity, usuwać nieużywane importy i pisać testy do tego, co właśnie wyklikałeś.
+
+Jeśli jesteś DevOps-em i toniesz w plikach konfiguracyjnych, Aider będzie Twoim wybawieniem. DevOps to praca w terminalu. Aider nie boi się edytować gigantycznych plików YAML i naprawiać błędów w pipeline-ach na podstawie wklejonych logów błędów.
+
+Na koniec porozmawiajmy szczerze o pieniądzach i możliwościach. Przeanalizujmy tabelę prawdy.
+
+Cursor AI w wersji Pro to koszt dwudziestu dolarów miesięcznie. Daje Ci to 500 bardzo szybkich zapytań do najlepszych modeli, takich jak Claude 3.5. Gdy je zużyjesz, nie tracisz dostępu, ale wpadasz w wolniejszą kolejkę. To obecnie król wydajności, wygody i stosunku jakości do ceny.
+
+Windsurf w wersji Pro jest nieco tańszy, kosztuje piętnaście dolarów. Daje 500 kredytów, ale uwaga – skomplikowane zadania agentowe mogą zużywać więcej niż jeden kredyt naraz. Jest jednak świetny w pamiętaniu kontekstu tego, co robiłeś dziesięć minut temu.
+
+Narzędzia takie jak Aider oraz Cline są darmowe jako oprogramowanie, ale działają w modelu "Płać za to, co zużyjesz". Musisz podpiąć własne klucze API. To model dla świadomych użytkowników. Daje pełną kontrolę, ale uważaj na pętle błędów. Jeśli zostawisz agenta samopas z zadaniem "naprawiaj aż się uda", może on spalić dziesięć dolarów w godzinę, próbując bezskutecznie naprawić jeden błąd.
+
+GitHub Copilot w wersji Pro to koszt dziesięciu dolarów. To najbardziej opłacalna i bezpieczna opcja, taka Toyota Corolla wśród AI. Niezawodna, tania, zintegrowana wszędzie, ale bez fajerwerków i pełnej autonomii, jaką oferuje konkurencja.
+
+Podsumowując naszą podróż. Przestań traktować sztuczną inteligencję jak mądrzejszego spinacza z Worda. To są potężne narzędzia, które definiują na nowo Twój zawód.
+
+Jeśli budujesz startup i liczysz każdą minutę, Cursor jest Twoim Ferrari. Jeśli cenisz stabilność korporacji i bezpieczeństwo prawne, Copilot jest Twoim bezpiecznym wyborem. Jeśli dopiero się uczysz i potrzebujesz wsparcia, Windsurf będzie Twoim instruktorem. A jeśli jesteś weteranem terminala i nie uznajesz kompromisów, Aider jest Twoim mechem bojowym.
+
+Wybierz mądrze, dostosuj narzędzie do swojego stylu i niech Twój kod kompiluje się zawsze za pierwszym razem. Powodzenia.
