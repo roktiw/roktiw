@@ -1,25 +1,29 @@
-**About me:** Level 15 Project Manager. Douglas Engelbart fan.
+👋 **Senior IT Project Manager & Technical Product Owner**
 
----
+## 🎯 About Me
 
-**Blog:**
-- [2025-12-11 remote desktop table](https://github.com/roktiw/roktiw/blob/main/blog/2025-12-11-remote-desktop-table.md)
-- [2025-05-01](https://github.com/roktiw/roktiw/blob/main/blog/2025-05-01%20labour%20mayday.md)
-- [2025-04-21 easter hackathon](https://github.com/roktiw/roktiw/blob/main/blog/2025-04-21%20easter%20hackhaton.md)
+Experienced Senior IT Project Manager and Technical Product Owner with 10+ years leading global projects across Retail, E-commerce, and Media industries. I specialize in digital transformation, cloud infrastructure optimization, and building high-performance DevOps teams.
 
----
+### 💡 Core Competencies:
+- **Frameworks:** SAFe Scaled Agile Framework, Scrum, Agile
+- **Cloud & DevOps:** Microsoft Azure (AKS, CosmosDB, Terraform IaC, GitOps, Active-Active Architecture, Blue-Green Deployments)
+- **Cost Optimization:** FinOps, Azure Reservations, Resource Optimization
+- **Leadership:** Team scaling, portfolio management, stakeholder alignment, cross-functional collaboration
+- **Tools:** JIRA, Confluence, ServiceNow, Azure DevOps, Miro, Grafana
 
-**My pet projects:**
-- The project I am working on right now is probably [here](http://roktiw.github.io)
-- [Artificial Intelligence Notation (AIN)](https://github.com/roktiw/ain/tree/main) – Framework and organizational model for working with AI, such as Copilot and ChatGPT, on codebases.
-- [🤔🇨🇳chinemoji: Compressing ChatGPT Memory with Chinese + Emoji](https://github.com/roktiw/chinemoji) – Solution for transferring ChatGPT conversations from one chat to another and putting more into ChatGPT Memory Full.
-- [🚀 GAMstack: GitHub Actions + Markdown for easy publishing](https://github.com/roktiw/gamstack) – GitHub Native Markdown Repository CMS. GitHub Actions Static Site Generator. GitHub Pages. No-code, AI-ready, zero maintenance.
-- [May 2024 Hackathon](https://github.com/roktiw/farmario-backup-20250418/blob/main/balloons/index.html) – Very productive Majówka Break. All games are written in pure JavaScript, addictive, and kid-friendly! You can run all games by downloading the HTML files and opening them in a browser.
-  - [🎈 Balloons](https://github.com/roktiw/farmario-backup-20250418/blob/main/balloons/index.html) – Pop balloons like Jerry in *Rick and Morty*.
-  - [🚘 Cars](https://github.com/roktiw/farmario-backup-20250418/blob/main/cars/index.html) – Dodge cars, earn points.
-  - [🍎🍊🍌🥝🫐 Columns](https://github.com/roktiw/farmario-backup-20250418/blob/main/columns/index.html) – Better than Candy Crush.
-  - [😀 Farmario](https://github.com/roktiw/farmario-backup-20250418/blob/main/farmario/index.html) – *Agario*-inspired game.
-  - [🪰💩 Fly Poo Game](https://github.com/roktiw/farmario-backup-20250418/blob/main/fly/index.html) – Best toilet game.
-  - [🐎💨💩🌵 Horse Runner](https://github.com/roktiw/farmario-backup-20250418/blob/main/horse/index.html) – *Google Dino Run*-inspired game.
+### 📊  Experience:
+- Led Azure System Team supporting API-as-a-Service platform serving 100+ digital products
+- Scaled team from 1.5 to 7 Senior DevOps experts + SRE AKS specialists
+- Achieved tens of thousands USD monthly savings through FinOps initiatives
+- Implemented Active-Active High Availability and Blue-Green Deployment pilots
+- Established Azure DevOps Forum and Community of Practice for standards unification
+- Managed complex product portfolios across APAC, EMEA, and LATAM regions
+- Secured stakeholder buy-in for major architectural changes across global teams
+- Portfolio simplification and architecture roadmap governance
 
----
+### 🏆 Value I Deliver:
+✅ Enterprise-scale DevOps team transformation and process optimization  
+✅ Cloud cost optimization (FinOps best practices & implementation)  
+✅ Mentoring junior and senior engineers across technical disciplines  
+✅ Bridging technical requirements with business objectives & strategy  
+✅ Operational excellence during high-traffic business events
